@@ -10,7 +10,7 @@ const FeatureList = [
   {
     title: 'Get smart',
     link: {
-      to: '/docs/intro',
+      to: '/docs',
       content: 'Make me smarter!',
     },
     icon: faLightbulb,
